@@ -1,0 +1,2 @@
+asset_id,display_name,category,owner_scene,source_file,runtime_file,native_size,frame_size,frame_count,directions,status,license,notes
+char_pillow_main,Pillow,character,actors/pillow/pillow.tscn,source_art/characters/pillow/pillow_master.aseprite,actors/pillow/sprites/pillow_walk.png,192x256,48x64,12,4,planned,original,main playable character
