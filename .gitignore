@@ -1,0 +1,19 @@
+# Godot generated files
+.godot/
+.export/
+exports/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Large source-art working files should use Git LFS
+*.psd
+*.kra
+*.aseprite
+
+# Local saves and logs
+user_data/
+logs/
